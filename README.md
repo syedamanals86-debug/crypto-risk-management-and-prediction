@@ -75,7 +75,7 @@ crypto-risk/
 1. Clone the repository:
 
 ```bash
-git clone <YOUR_GITHUB_REPOSITORY_URL>
+git clone <https://github.com/syedamanals86-debug/crypto-risk-management-and-prediction.git>
 ```
 
 2. Navigate to the project directory:
@@ -118,6 +118,6 @@ streamlit run main.py
 
 ## Author
 
-**Syeda Manal**
+**Syeda Rana Manal**
 
 GitHub: https://github.com/syedamanals86-debug
