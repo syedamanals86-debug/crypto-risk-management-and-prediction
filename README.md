@@ -6,9 +6,14 @@ A Python-based application that analyzes cryptocurrency market data, predicts fu
 
 This project combines machine learning, market analysis, and risk assessment to help users understand cryptocurrency price movements and potential financial risks. It includes an interactive Streamlit dashboard for presenting market insights and visualizations.
 
+https://github.com/user-attachments/assets/314c7fc9-2811-4d0c-9baf-77e028488981
+
+
 ## Application Screenshots
 
+<img width="1920" height="1020" alt="Crypto Analysis   Risk Management - Google Chrome 11_6_2026 11_33_23 PM" src="https://github.com/user-attachments/assets/ed15e5e2-1a53-449a-b16a-ab5eab0bd2a8" />
 
+<img width="1920" height="1020" alt="Screenshot 11_6_2026 11_33_14 PM" src="https://github.com/user-attachments/assets/1d16e057-fd4b-4bbb-81cc-4efce31dd199" />
 
 ## Key Features
 
