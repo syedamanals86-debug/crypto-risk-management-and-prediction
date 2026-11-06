@@ -126,3 +126,5 @@ streamlit run main.py
 **Syeda Rana Manal**
 
 GitHub: https://github.com/syedamanals86-debug
+
+Linkdin: https://www.linkedin.com/in/syeda-rana-manal-2bb3a240b/
